@@ -31,6 +31,7 @@ I am sure that this profession will open up endless opportunities for profession
 - MapInfo, QGis
 - GitHub, Git 
 - HTML, CSS 
+- Photoshop, Corel Draw (neophyte user)
 
 ---
 
