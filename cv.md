@@ -25,3 +25,15 @@ and decided to try my hand at web development.
 I am sure that this profession will open up endless opportunities for professional development.
 
 ---
+
+### Skills
+
+- MapInfo, QGis
+- GitHub, Git 
+- HTML, CSS 
+
+---
+
+### Education
+
+- **University:** Belarusian National Technical University, energetics, power supply of cities and industrial enterprises
