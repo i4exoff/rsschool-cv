@@ -1,1 +1,1 @@
-# rsschool-cv
+https://i4exoff.github.io/rsschool-cv/cv
