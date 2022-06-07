@@ -35,6 +35,16 @@ I am sure that this profession will open up endless opportunities for profession
 
 ---
 
+### Code example:
+*Very very simple example*
+
+``` 
+let yourName = prompt("What is your name?", [Fedya?]);
+alert(`Your name is ${yourName}`);
+```
+
+---
+
 ### Education
 
 - **University:** Belarusian National Technical University, energetics, power supply of cities and industrial enterprises
