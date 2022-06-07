@@ -8,3 +8,20 @@
 * **Discord:** Ilya Voystratenko (i4exoff)
 
 ---
+
+### About me:
+
+New to IT.
+I worked for 12 years in the field of urban planning, 
+using MapInfo, AutoCad and QGIS and other programs for working with cartographic materials. 
+I work well in a team. 
+
+I love to travel, it made me observant. 
+I love music and singing, it made me creative. 
+
+For a long time I was looking through the Business Lynch section on the Art. Lebedev Studio website with interest, 
+and decided to try my hand at web development. 
+
+I am sure that this profession will open up endless opportunities for professional development.
+
+---
