@@ -38,3 +38,18 @@ I am sure that this profession will open up endless opportunities for profession
 ### Education
 
 - **University:** Belarusian National Technical University, energetics, power supply of cities and industrial enterprises
+
+---
+
+### Courses:
+
+-  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+
+---
+
+### Languages:
+
+- English \- B1
+- Russian \- Native
+- Belarusian \- Proficient
